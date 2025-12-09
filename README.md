@@ -1,7 +1,6 @@
 # Excel-sales-data-analysis-project
 ## Project Objective
 -I developed sales analysis methods based on my own ideas.
-
 ## Analysis Methods
 -Total sales trend
 -Highest sales by country
