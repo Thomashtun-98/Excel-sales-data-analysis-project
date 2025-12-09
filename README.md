@@ -1,2 +1,2 @@
 # Excel-sales-data-analysis-project
-I developed sales analysis methods with my own idea.
+I developed sales analysis methods based on my own ideas.
