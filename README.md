@@ -7,3 +7,5 @@
 -Top 10 customers
 -Comparative Anlysis between Coffee type and Roast type
 -Order date for tracking sales performance
+## Dashboard
+https://github.com/Thomashtun-98/Excel-sales-data-analysis-project/blob/main/Coffee%20sales%20dashboard.PNG
